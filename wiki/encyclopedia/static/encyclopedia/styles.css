@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+h1, h3 {
+    margin-top: 0;
+    padding-top: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+label {
+    font-size: 20px;
+    margin-top: 5px;
+}
+input {
+    width: 20%;
+}
+.title {
+    font-size: 20px;
+
+}
+a:hover{
+    color: #71bbea;
+}
+
+textarea {
+    height: 45vh;
+    width: 70%;
+}
+
+ul {
+    padding: 10px;
+}
+
+ul li {
+    margin-bottom: 5px;
+
+}
+
+
+.row {
+    margin-right: 0px;
+}
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: rgba(240, 240, 240, 0.94);
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+.sidebar div {
+    margin-top: 10px;
+}
